@@ -1,0 +1,2 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0"><assemblyIdentity name="Decoder" version="1.0.0.0" processorArchitecture="msil"></assemblyIdentity><clrClass clsid="{6477C617-F645-3313-9F41-CC5112BEDEA5}" progid="Decoder.StringDecoder" threadingModel="Both" name="Decoder.StringDecoder" runtimeVersion="v4.0.30319"></clrClass><file name="decoder.dll" hashalg="SHA1"></file></assembly>
