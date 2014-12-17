@@ -20,7 +20,7 @@ mt -managedassemblyname:decoder.dll -out:decoder.manifest -nodependency
 
 This will generate a manifest that looks something like this:
 
-```xml
+```XML
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1"manifestVersion="1.0">
     <assemblyIdentity name="Decoder" version="1.0.0.0" processorArchitecture="msil">
@@ -35,7 +35,7 @@ The C++ client's manifest file can be either written by manually, or using Visua
 
 project configuration properties > Linker > Manifest File > Additional Manifest Dependencies
 
-```xml
+```XML
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
     <assemblyIdentity
